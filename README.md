@@ -31,5 +31,5 @@ My name is **Cristian**, I live in **Cluj-Napoca**, the heart of Transylvania. I
 ## Experience
 ### 2018 November - 2019 October 
 **DevOps / Support Engineer** at **SmartSpot Services SRL**
-- Tasked with Monitoring the servers and repairing them in case of software errors
+- Tasked with Monitoring the servers and repairing them in case of software failure
 
