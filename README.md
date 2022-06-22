@@ -32,27 +32,32 @@ My name is **Cristian**, I live in **Cluj-Napoca**, the heart of Transylvania. I
 ### 2018 November - 2019 October 
 **DevOps / Support Engineer** at **SmartSpot Services SRL**
 - Server maintenance, monitorization, configuration, deployment & automation, remote & on-site
-  > Zabbix, Grafana, Prometheus, Docker, Ansible, Jenkins, Nginx, Oracle, CentOS, Bash, Python, VMWare, Putty
+  > Zabbix, Grafana, Prometheus, Docker, Ansible, Jenkins, Nginx, Oracle, CentOS, Bash, Python, Putty, SSH
 - Database management, version control
   > MongoDB, MariaDB, MySQL, GitHub
 
 ### 2019 November - 2020 June
 - Entry into Web developemnt through courses and practice
-  > HTML, CSS, JavaScript, ReactJS, NodeJS, jQuery, WordPress, Firebase
+  > HTML, CSS, JavaScript, ReactJS, Redux, jQuery, WordPress, Firebase
 - Cloud server hosting & maintenance
   > Domain acquisition (GoDaddy), Server hosting (bluehost)
 
-### 2020 June - 2021 September
+### 2020 June - 2021 August
 **Full Stack Web Developer** at **SoftATAC SRL** on www.soferonline.ro
 - Started working on the existing architecture **PHP Symfony 3.4**, design & front-end implementation through **Twig**
-- In 2020 September we moved the *Front-end* to **NextJS** *(static site generation at first, server-side rendering later)* and kept the the *Back-end* on **PHP** as **REST API** 
-  > TypeScript, ReactJS, NextJS, TailwindCSS, Jest, Webpack, Babel
+- In 2020 September we rebuilt the *Front-end* on **NextJS** *(static site generation at first, server-side rendering later)* and kept the the *Back-end* on **PHP** as **REST API** 
+- Implemented Driving School Questionnaires with multiple modes
+  > TypeScript, SASS, ReactJS, NextJS, SWR, TailwindCSS, React testing library, Jest, Webpack, Babel, Docker, Kubernetes
  
-Useful libraries I've worked with: `dateJs`, `esLint`,  `Storybook`, 
+Some libraries I've worked with: `dateJs`, `dateFns`, `esLint`,  `Storybook`, `react-bigcalendar`, `react-datepicker`, `react-dropzone`, `react-hook-form`, `react-paginate`, `react-select`, `react-toastify`, `react-tooltip`, etc.
+  - Basic design & image editing using **Adobe Photoshop** and **Adobe Illustrator**
+  - CSS Animations
+  - MySQL Database management with 300.000+ users
+  - Implemented **Shop** page for existing **WordPress** site, integrated with *NETOPIA Payments*
 
 
 
 
 
-- Python, C++, Assembly, Photoshop, Illustrator
+#####  Python, C++, Assembly, Excel, Word
 
