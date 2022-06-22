@@ -15,7 +15,7 @@
 </div>
 
 ## Contact
-Csakany Cristian-Sorin
+**Csakany Cristian-Sorin**
 
 **Phone:** +40 771 645 647
 
@@ -28,8 +28,31 @@ My name is **Cristian**, I live in **Cluj-Napoca**, the heart of Transylvania. I
 
 
 
-## Experience
+## Experience timetable
 ### 2018 November - 2019 October 
 **DevOps / Support Engineer** at **SmartSpot Services SRL**
-- Tasked with Monitoring the servers and repairing them in case of software failure
+- Server maintenance, monitorization, configuration, deployment & automation, remote & on-site
+  > Zabbix, Grafana, Prometheus, Docker, Ansible, Jenkins, Nginx, Oracle, CentOS, Bash, Python, VMWare, Putty
+- Database management, version control
+  > MongoDB, MariaDB, MySQL, GitHub
+
+### 2019 November - 2020 June
+- Entry into Web developemnt through courses and practice
+  > HTML, CSS, JavaScript, ReactJS, NodeJS, jQuery, WordPress, Firebase
+- Cloud server hosting & maintenance
+  > Domain acquisition (GoDaddy), Server hosting (bluehost)
+
+### 2020 June - 2021 September
+**Full Stack Web Developer** at **SoftATAC SRL** on www.soferonline.ro
+- Started working on the existing architecture **PHP Symfony 3.4**, design & front-end implementation through **Twig**
+- In 2020 September we moved the *Front-end* to **NextJS** *(static site generation at first, server-side rendering later)* and kept the the *Back-end* on **PHP** as **REST API** 
+  > TypeScript, ReactJS, NextJS, TailwindCSS, Jest, Webpack, Babel
+ 
+Useful libraries I've worked with: `dateJs`, `esLint`,  `Storybook`, 
+
+
+
+
+
+- Python, C++, Assembly, Photoshop, Illustrator
 
