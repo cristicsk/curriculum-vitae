@@ -1,5 +1,3 @@
-
-
 <p align="center" color="gray">
   <img src="https://raw.githubusercontent.com/cristicsk/curriculum-vitae/main/public/me.png" height="auto" width="200" style="border-radius:50%">
 </p>
@@ -44,24 +42,28 @@ My name is **Cristian**, I live in **Cluj-Napoca**, the heart of Transylvania. I
 
 ### 2020 June - 2021 August
 **Full Stack Web Developer** at **SoftATAC SRL** on www.soferonline.ro (e-learning app for driving licence, CRM platform for driving schools)
+> TypeScript, SASS, ReactJS, NextJS, SWR, TailwindCSS, React testing library, Jest, Webpack, Babel, Docker, Kubernetes
 - Started working on the existing architecture **PHP Symfony 3.4**, design & front-end implementation through **Twig**
 - In 2020 September we rebuilt the *Front-end* on **NextJS** *(static site generation at first, server-side rendering later)* and kept the the *Back-end* on **PHP** as **REST API** 
 - Implemented *Driving School Questionnaires* with multiple modes to resolve (simulating real life situation / just for training without failing questions)
 - Implemented *Membership Package* buy page on FE / adjusted *prices, discounts and coupons* on BE 
+- MySQL Database management with 300.000+ users
+- Implemented **Shop** page for existing **WordPress** site, integrated with *NETOPIA Payments* and **FGO** accounting
+- Basic design & image editing using **Adobe Photoshop** and **Adobe Illustrator**
+- **Responsive** design & CSS Animations
+- **SEO** & **Google  Lighthouse** score optimization
 - Other project integrations:
+  - AWS S3 
   - Google Analytics
   - Sentry.io
   - Slack
   - Zoom
-  > TypeScript, SASS, ReactJS, NextJS, SWR, TailwindCSS, React testing library, Jest, Webpack, Babel, Docker, Kubernetes
+ 
  
 Some libraries I've worked with: `dateJs`, `dateFns`, `esLint`,  `Storybook`, `react-bigcalendar`, `react-datepicker`, `react-dropzone`, `react-hook-form`, `react-paginate`, `react-select`, `react-toastify`, `react-tooltip`, etc.
-  - Basic design & image editing using **Adobe Photoshop** and **Adobe Illustrator**
-  - CSS Animations
-  - MySQL Database management with 300.000+ users
-  - Implemented **Shop** page for existing **WordPress** site, integrated with *NETOPIA Payments* and **FGO** accounting
-
-
+  
+### 2021 September - Present
+**Front-end Web Developer** at **WhitePipe SRL** on www.white-pipe.com
 
 
 
