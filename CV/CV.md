@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/cristicsk/curriculum-vitae/main/public/me.png" height="auto" width="200" style="border-radius:50%">
 </p>
 
-
 <h3 align="center">
    Welcome to my resume, I'm Cristian
 </h3>
