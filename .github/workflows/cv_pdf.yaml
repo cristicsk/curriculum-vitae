@@ -5,7 +5,7 @@ on:
       - master
     # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
     paths:
-      - '**.md'
+      - 'CV/**.md'
       - '.github/workflows/cv_pdf.yaml'
 
 jobs:
@@ -18,10 +18,10 @@ jobs:
         with:
           input_dir: CV
           output_dir: CV
-#           images_dir: docs/images
+          images_dir: public
 #           image_import: ./images
           # Default is true, can set to false to only get PDF files
-          build_html: true
+          build_html: false
       - uses: actions/upload-artifact@v1
         with:
           name: docs
