@@ -8,7 +8,7 @@
 </h3>
 <div align="center">
 <em>
-  My motto: 6 hours of debugging can save you 5 minutes of reading documentation
+  Motto: 6 hours of debugging can save you 5 minutes of reading documentation
 </em>
 </div>
 
@@ -30,7 +30,7 @@ My name is **Cristian**, I live in **Cluj-Napoca**, the heart of Transylvania. I
 ### 2018 November - 2019 October 
 **DevOps / Support Engineer** at **SmartSpot Services SRL**
 - Server maintenance, monitorization, configuration, deployment & automation, remote & on-site
-  > Zabbix, Grafana, Prometheus, Docker, Ansible, Jenkins, Nginx, Oracle, CentOS, Bash, Python, Putty, SSH
+  > Zabbix, Grafana, Prometheus, Docker, Ansible, Jenkins, Nginx, Oracle, CentOS, Bash, Python, SSH
 - Database management, version control
   > MongoDB, MariaDB, MySQL, GitHub
 
@@ -62,7 +62,7 @@ My name is **Cristian**, I live in **Cluj-Napoca**, the heart of Transylvania. I
  
 Some libraries I've worked with: `dateJs`, `dateFns`, `esLint`,  `Storybook`, `react-bigcalendar`, `react-datepicker`, `react-dropzone`, `react-hook-form`, `react-paginate`, `react-select`, `react-toastify`, `react-tooltip`, etc.
   
-### 2021 September - Present
+### 2021 September - 2022 August
 **Front-end Web Developer** at **WhitePipe SRL** on www.white-pipe.com (business management platform for freelancers & SMEs)
 > TypeScript, ReactJS, React Context, NextJS, TailwindCSS, React testing library 
 - Implemented from *FIGMA* the design & functionality
@@ -76,7 +76,17 @@ Some libraries I've worked with: `dateJs`, `dateFns`, `esLint`,  `Storybook`, `r
   - Responsive Pinterest-like ordering elements that allows variable height, but fixed width
   - Infinite-scrolling that loads more elements once end of page is reached
   
- I've tried to mention the more important contributions and leave out what feels basic.
+ I've tried to mention the more important contributions and leave out what felt basic.
+
+### 2022 August - 2024 August
+**Senior Software Engineer** at **8x8**, an United States of America Company, located in San Jose, California (Voice over IP products)
+> JavaScript, ElectronJS, WebWorkers, CryptoJS / Web Native Cryptography, Cypress, Playwright, JIRA - Agile, Bugsnag, Jenkins
+- Multi-platform contact-center application delivered as standalone app on Windows & MacOS, as well as accessed through Web browser
+- Implemented design & functionality as tasked
+- Focused with handling large amounts of data while maintaining performance
+- Complex data restructuring while migrating between API versions with fallback mechanisms
+- Front-end accesibility - ease for people with health impairments to access, understand, and navigate content
+- Data caching & cryptography
  
  ## Studies
  *2011 - 2015* - Colegiul Național "*Andrei Mureșanu*" Dej - Mathematics & **IT**
