@@ -63,7 +63,7 @@ My name is **Cristian**, I live in **Cluj-Napoca**, the heart of Transylvania. I
 Some libraries I've worked with: `dateJs`, `dateFns`, `esLint`,  `Storybook`, `react-bigcalendar`, `react-datepicker`, `react-dropzone`, `react-hook-form`, `react-paginate`, `react-select`, `react-toastify`, `react-tooltip`, etc.
   
 ### 2021 September - 2022 August
-**Front-end Web Developer** at **WhitePipe SRL** on www.white-pipe.com (business management platform for freelancers & SMEs)
+**Front-end Web Developer** at **WhitePipe SRL** on www.white-pipe.com (business management platform for freelancers & small/medium enterprises)
 > TypeScript, ReactJS, React Context, NextJS, TailwindCSS, React testing library 
 - Implemented from *FIGMA* the design & functionality
 - Responsive static pages with Next optimized images
@@ -79,11 +79,11 @@ Some libraries I've worked with: `dateJs`, `dateFns`, `esLint`,  `Storybook`, `r
  I've tried to mention the more important contributions and leave out what felt basic.
 
 ### 2022 August - 2024 August
-**Senior Software Engineer** at **8x8**, an United States of America Company, located in San Jose, California (Voice over IP products)
-> JavaScript, ElectronJS, WebWorkers, CryptoJS / Web Native Cryptography, Cypress, Playwright, JIRA - Agile, Bugsnag, Jenkins
+**Software Engineer** at **8x8** (US company delivering voice-over-IP products)
+> JavaScript, ElectronJS, WebWorkers, CryptoJS / Web Native Cryptography, Cypress, Playwright, JIRA, Bugsnag, Jenkins
 - Multi-platform contact-center application delivered as standalone app on Windows & MacOS, as well as accessed through Web browser
 - Implemented design & functionality as tasked
-- Focused with handling large amounts of data while maintaining performance
+- Worked with large amounts of data while focused on maintaining performance
 - Complex data restructuring while migrating between API versions with fallback mechanisms
 - Front-end accesibility - ease for people with health impairments to access, understand, and navigate content
 - Data caching & cryptography
