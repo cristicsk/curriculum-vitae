@@ -79,25 +79,25 @@ Some libraries I've worked with: `dateJs`, `dateFns`, `esLint`,  `Storybook`, `r
  I've tried to mention the more important contributions and leave out what felt basic.
 
 ### 2022 August - 2024 August
-**Software Engineer** at **8x8** (US company delivering voice-over-IP products)
+**Software Engineer (Front-end)** at **8x8** (US company delivering voice-over-IP products)
 > JavaScript, ElectronJS, WebWorkers, CryptoJS / Web Native Cryptography, Cypress, Playwright, JIRA, Bugsnag, Jenkins
 - Multi-platform contact-center application delivered as standalone app on Windows & MacOS, as well as accessed through Web browser
 - Implemented design & functionality as tasked
-- Worked with large amounts of data while focused on maintaining performance
+- Extended available unit-testing tools with solutions for mocking whole modules avoiding heavily repetitive tasks
+- Worked with large amounts of data while focused on maintaining performance.
+- Contributed to identifying & fixing performance hindering issues, greatly lowering time required for application start-up & improving UI interaction responsiveness
 - Complex data restructuring while migrating between API versions with fallback mechanisms
 - Front-end accesibility - ease for people with health impairments to access, understand, and navigate content
 - Data caching & cryptography
  
  ## Studies
  *2011 - 2015* - Colegiul Național "*Andrei Mureșanu*" Dej - Mathematics & **IT**
- Learned basics of programming while coding in **C++**
+ Learned basics of computer programming with practice in **C++**
  
  Earned a mention at IT Olympics - County phase
  
  ## Other info
- - I'm a very friendly person that easily fits in any group. I enjoy helping others and sharing what I know in case it might come in handy for someone else. I'm grateful that same was done for me and it is the reason I've managed to pick up web development
- - I love being outdoors during summer, but winter is my fiercest enemy
- - Driving while listening to music is my best way to break free from stress and clear my mind
+ - I'm a very friendly person that easily fits in any group. I enjoy helping others and sharing what I know in case it might come in handy for someone else. Same was done for me and it is the reason I've managed to pick up web development
  - I enjoy playing video games (although I've missed out a lot lately) as well as chess
  - While trying to tinker with video games I've learned **Assembly** 
  - Learned Photoshop & Illustrator as a hobby while in High-School
